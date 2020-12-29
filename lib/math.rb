@@ -1,6 +1,6 @@
 def addition(num1, num2)
-  puts num1.to_i + num2.to_i
-  (5+4)
+ num1.to_i + num2.to_i
+
   
 end
 
@@ -26,8 +26,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  puts Math.sqrt (81)
-  
+  puts Math.sqrt (num)
   
 
 end  
